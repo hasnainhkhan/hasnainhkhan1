@@ -17,3 +17,6 @@ About Me<br>Hi there! 👋 I'm currently a B.Tech 8th-semester student with a pa
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <hr>
+## 🐍 Contribution Snake
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/satyam8932/satyam8932/main/dist/snake.svg)
