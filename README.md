@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br>Hi there! 👋 I'm currently a B.Tech 8th-semester student with a passion for programming and software development. I’m constantly learning new technologies and expanding my skill set.<br><br>Languages: Java, Python<br>Frameworks: Spring, Django<br>Currently learning: Exploring more advanced concepts in Java and Spring, while deepening my knowledge in Python and Django.<br>I'm enthusiastic about building scalable, efficient applications and contributing to open-source projects. Feel free to check out my repositories, and if you’d like to collaborate or chat about tech, don't hesitate to reach out!
+About Me<br>Hi there! 👋 I'm currently a B.Tech 8th-semester student with a passion for programming and software development. I’m constantly learning new technologies and expanding my skill set.<br><br>Languages: Java, Python<br>Frameworks: Spring, Django<br>Currently learning: Exploring more advanced concepts in Java and Spring, while deepening my knowledge in Python and Django.<br>I'm enthusiastic about building scalable, efficient applications and contributing to open-source projects. Feel 🆓 to check out my repositories, and if you’d like to collaborate or chat about tech, don't hesitate to reach out!
 
 
 ## 🌐 Socials:
