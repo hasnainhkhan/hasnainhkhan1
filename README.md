@@ -1,7 +1,7 @@
 # 💫 About Me:
 About Me<br>Hi there! 👋 I'm currently a B.Tech 8th-semester student with a passion for programming and software development. I’m constantly learning new technologies and expanding my skill set.<br><br>Languages: Java, Python<br>Frameworks: Spring, Django<br>Currently learning: Exploring more advanced concepts in Java and Spring, while deepening my knowledge in Python and Django.<br>I'm enthusiastic about building scalable, efficient applications and contributing to open-source projects. Feel 🆓 to check out my repositories, and if you’d like to collaborate or chat about tech, don't hesitate to reach out!
 
-
+##
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasnain__71) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hasnain-haidar-a6311b22a/) 
 
