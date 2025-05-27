@@ -3,6 +3,7 @@ About Me<br>Hi there! 👋 I'm currently a B.Tech 8th-semester student with a pa
 
 ##
 ## 🌐 Socials: f
+## main
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasnain__71) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hasnain-haidar-a6311b22a/) 
 
 # 💻 Tech Stack:
